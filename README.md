@@ -1,18 +1,24 @@
 # WEINTERN-DIGITAL-MARKETING-PROJECT-
 Digital Marketing project covering SEO, Social Media Marketing, Email Marketing, Content Marketing, and Online Advertising.
+
 Technologies Used
+
 Google Search Engine
 Social Media Platforms (Instagram, Facebook, LinkedIn)
 Email Marketing Tools
 Google Ads Platform
 Internet and Web Browsers
+
 Project Workflow
+
 Study the basics of Digital Marketing.
 Research major digital marketing methods.
 Analyze SEO, SMM, Email Marketing, and Paid Ads.
 Compare the methods based on cost, speed, and purpose.
 Prepare the report and summarize findings.
+
 Files Included
+
 Digital Marketing Basics Report (PDF)
 Comparison Table
 Reference Sources
